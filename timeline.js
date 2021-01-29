@@ -16,3 +16,4 @@ var items = document.querySelectorAll(".timeline li");
       }
     }
   }
+  window.addEventListener("scroll", callbackFunc);
